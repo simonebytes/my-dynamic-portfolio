@@ -1,0 +1,17 @@
+[
+  {
+    "name": "My First HTML Page",
+    "description": "A simple static page demonstrating basic HTML structure and elements.",
+    "link": "https://simonebytes.github.io/my-static-page/"
+  },
+  {
+    "name": "CSS Styling Practice",
+    "description": "Explored various CSS properties to style text, colors, and layout.",
+    "link": "https://simonebytes.github.io/qr-code-page/"
+  },
+  {
+    "name": "Interactive JavaScript Fun",
+    "description": "Implemented basic JavaScript to add dynamic behavior and user interaction.",
+    "link": "https://simonebytes.github.io/my-dynamic-page/"
+  }
+]
